@@ -1,0 +1,21 @@
+[{
+    "role": "Software Developer",
+    "organisation": "Btrac",
+    "startDate": "May, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on mern stack" ," AWS Infrastructure management"],
+    "imageSrc": "history/btrac.png"
+  },
+  
+  {
+    "role": "SWE Intern",
+    "organisation": "Kiebot",
+    "startDate": "May, 2022",
+    "endDate": "April, 2023",
+    "experiences": [
+      "Worked on component library",
+      "Helped create UI components",
+      "Worked on Java springboot"
+    ],
+    "imageSrc": "history/kiebot.jpeg"
+  }]
