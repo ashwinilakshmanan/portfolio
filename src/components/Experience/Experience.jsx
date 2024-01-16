@@ -7,7 +7,7 @@ import history from "../../data/history.json";
 const Experience = () => {
   return (
     <>
-      <div className={styles.container}>
+      <div className={styles.container} id="experience">
         <h2 className={styles.title}>Experience</h2>
         <div className={styles.content}>
           <div className={styles.skills}>
